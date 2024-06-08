@@ -12,3 +12,5 @@
 12. Updating table with change
 13. Removing duplicates
 14. Deleting unused columns
+
+Data to clean found here: https://docs.google.com/spreadsheets/d/1mh-c1Pen4EKiAvzmM31XwqUIz_rrxyT-/edit?usp=sharing&ouid=113520075213778643010&rtpof=true&sd=true
